@@ -1,0 +1,14 @@
+#header {
+  background-color: #b11313;
+}
+
+#section1 {
+  background: url(../Illustration/img1.png);
+
+  height: 900px;
+}
+
+#footer {
+  background-color: #000000;
+  height: 300px;
+}
