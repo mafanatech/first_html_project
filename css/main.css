@@ -1,5 +1,5 @@
 #header {
-  background-color: #b11313;
+  background-color: blue;
 }
 
 #section1 {
@@ -12,3 +12,20 @@
   background-color: #000000;
   height: 300px;
 }
+
+
+  @font-face {
+    font-family: "HeroTitre";
+    src: local("/font/Typo-FarFromHomecoming.woff2") format('woff2');
+  }
+
+  .fontTitreHero{
+    font-family: "HeroTitre";
+  }
+
+  .titreText{
+    position: absolute;
+    top: 65%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+  }
