@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "HeroTitre";
+    src: url("../font/Typo-FarFromHomecoming.woff2");
+    font-weight: bold;
+  }
+
+  .fontTitreHero{
+    font-family: "HeroTitre";
+  }
+
+  .titreText{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  /* #spidF{
+    background-image: url("../Illustration/img20.png"); */
+
+    /* Full height */
+    /* height: auto;
+    width: auto; 
+   */
+    /* Center and scale the image nicely */
+    /* background-attachment: fixed; */
+    /* background-position: center; */
+    /* background-repeat: no-repeat;
+    background-size: cover;
+  } */
